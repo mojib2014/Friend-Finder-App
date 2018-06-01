@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder-app",
+  "version": "1.0.0",
+  "description": "helps you find your friends",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojib2014/Friend-Finder-App.git"
+  },
+  "author": "Mojib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mojib2014/Friend-Finder-App/issues"
+  },
+  "homepage": "https://github.com/mojib2014/Friend-Finder-App#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
